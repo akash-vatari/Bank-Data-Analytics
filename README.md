@@ -14,6 +14,7 @@ Power BI → Interactive loan analytics dashboard
 Tableau → Advanced visual analytics and storytelling
 
 📂 Dataset
+https://drive.google.com/drive/folders/1aZZ0Lp6rEbENIUnQQ8d9INKYU4P7VjwF?usp=drive_link
 
 The dataset contains loan-related records with attributes such as:
 
@@ -91,7 +92,7 @@ Final Output → Compared results across tools to ensure accuracy.
 
 📷 Dashboard Snapshots
 
-
+https://drive.google.com/drive/folders/1gtBoHltXGdasojvSlphbmAf7_MwVJpPT?usp=drive_link
 
 🚀 Key Insights
 
